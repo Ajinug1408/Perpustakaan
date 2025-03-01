@@ -41,4 +41,4 @@ Setelah aplikasi berjalan, Anda dapat:
 
 # 📸 Tampilan Aplikasi 
 
-<img src= perpustakaan.png alt="Perpustakaan Preview">
+<img src= Perpustakaan.png alt="Perpustakaan Preview">
